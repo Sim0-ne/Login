@@ -1,0 +1,25 @@
+.titolo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000;
+}
+.disclaimer {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #CCC;
+}
+#sign {
+    font-style: normal;
+    font-weight: 400;
+    width: 350px;
+    font-size: 19px;
+    color: #FFF;
+}
+.pagesRegister {
+    color: #00F;
+    font-weight: 400;
+}

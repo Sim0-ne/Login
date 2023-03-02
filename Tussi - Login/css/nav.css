@@ -1,0 +1,29 @@
+/* Navbar */
+
+nav {
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+    height: 80px;
+}
+a {
+    text-decoration: none;
+}
+#pages {
+    display: inline-flex;
+    align-items: center;
+    color: #000;
+    gap: 80px;
+    width: 500px;
+    height: 80px;
+}
+#loginRegister {
+    display: inline-flex;
+    float: right;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 24px;
+    width: 206px;
+    height: 80px;
+}
